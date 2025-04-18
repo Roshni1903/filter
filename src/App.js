@@ -10,14 +10,14 @@ export default function App() {
       type: "A",
       active: "FALSE",
     },
-    {
-      id: 2,
-      name: "bar",
-      city: "dallas",
-      category: "one",
-      type: "B",
-      active: "FALSE",
-    },
+    // {
+    //   id: 2,
+    //   name: "bar",
+    //   city: "dallas",
+    //   category: "one",
+    //   type: "B",
+    //   active: "FALSE",
+    // },
     {
       id: 3,
       name: "jim",
